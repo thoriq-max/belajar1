@@ -1,37 +1,30 @@
-# Foobar
+# Thoriq Nurilta Ramadhani
 
-Foobar is a Python library for dealing with word pluralization.
+Halo! Saya Thoriq Nurilta Ramadhani, seorang Web Developer yang suka belajar hal baru dan berbagi pengetahuan.  
+Saya tertarik pada pengembangan website, baik dari sisi front-end maupun back-end.
 
-## Installation
+## Tentang Saya
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- *Email*: thoriqnurilta2104@gmail.com  
+- *Telepon*: 0812-3456-7890  
+- *Lokasi*: Banyumas, Indonesia  
 
-```bash
-pip install foobar
-```
+## Keahlian
 
-## Usage
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- React, Node.js (masih belajar)
 
-```python
-import foobar
+## Projek
 
-# returns 'words'
-foobar.pluralize('word')
+Beberapa proyek yang sedang dan telah saya kerjakan dapat dilihat di repositori GitHub saya.  
+Saya terbuka untuk kolaborasi dan selalu tertarik dengan tantangan baru.
 
-# returns 'geese'
-foobar.pluralize('goose')
+## Kontribusi
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Saya percaya bahwa berbagi ilmu adalah salah satu cara terbaik untuk berkembang.  
+Pull request dan masukan selalu diterima dengan senang hati!
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
+## Lisensi
 
 [MIT](https://choosealicense.com/licenses/mit/)
